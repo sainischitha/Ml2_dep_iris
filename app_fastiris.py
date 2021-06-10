@@ -3,10 +3,10 @@
 # Try 6.2,3.4,5.4,2.3 for Virginica
 
 
-import os
-mycwd =  'C:\\Users\\Raghavendra\\Downloads\\pes mtech\\pes ML 2\\deployment\\ML2Session7\\fast_logreg_iris'
-os.chdir(mycwd)
-os.getcwd()
+#import os
+#mycwd =  'C:\\Users\\Raghavendra\\Downloads\\pes mtech\\pes ML 2\\deployment\\ML2Session7\\fast_logreg_iris'
+#os.chdir(mycwd)
+#os.getcwd()
 import numpy as np
 # 1. Library imports
 import uvicorn
